@@ -1,0 +1,7 @@
+example_test_files/
+data/train.csv
+data/forecast_weather.csv
+data/historical_weather.csv
+my-data/train.csv
+my-data/train_cons.csv
+my-data/train_solar.csv
